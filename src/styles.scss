@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+/* Global styles */
+@use "bootstrap/scss/bootstrap";
+@use "ngx-bootstrap/datepicker/bs-datepicker";
+
+/* Font Awesome should use a regular CSS import */
+@import url("font-awesome/css/font-awesome.min.css");
